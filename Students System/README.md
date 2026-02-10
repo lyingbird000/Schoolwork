@@ -1,6 +1,5 @@
 # 1.概述
-这是一个简单的学生信息录入和处理系统，CStudent类图如下：
-![[Pasted image 20251105235144.png]]
+这是一个简单的学生信息录入和处理系统，CStudent类图见“CStudent类图.png”
 # 2.关键知识点
 - 重点在于学号的自动生成，方法是设置一个为CStudent类所拥有的静态成员参数mCount，在构造函数中即可在设置学号时调用CStudent.mCount,并在构造完成时CStudent.mCount++,即可实现有序递增学号。
 # 3.运行方法
