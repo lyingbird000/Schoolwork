@@ -1,0 +1,2 @@
+- This document includes some selected schoolwork finished in Data Structure course.
+- Regarding the content is basic, I write no README for each project, so it's mainly for myself to record my advancement in programming study.
